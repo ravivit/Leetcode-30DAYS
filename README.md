@@ -35,6 +35,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
