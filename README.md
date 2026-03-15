@@ -43,6 +43,7 @@ Consistency > Motivation.
 ## Math
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -60,4 +61,12 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
