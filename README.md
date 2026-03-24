@@ -32,6 +32,7 @@ Consistency > Motivation.
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2906-construct-product-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
@@ -80,10 +81,15 @@ Consistency > Motivation.
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2906-construct-product-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
