@@ -75,6 +75,7 @@ Consistency > Motivation.
 | ------- |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Design
 |  |
 | ------- |
