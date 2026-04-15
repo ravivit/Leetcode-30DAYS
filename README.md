@@ -58,6 +58,7 @@ Consistency > Motivation.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0009-palindrome-number) |
 | [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
