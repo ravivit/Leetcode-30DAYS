@@ -30,6 +30,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
@@ -47,11 +48,13 @@ Consistency > Motivation.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
