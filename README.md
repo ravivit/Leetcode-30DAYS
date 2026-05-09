@@ -30,6 +30,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -48,6 +49,7 @@ Consistency > Motivation.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -68,6 +70,7 @@ Consistency > Motivation.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
