@@ -147,4 +147,8 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3474-lexicographically-smallest-generated-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
