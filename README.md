@@ -29,6 +29,7 @@ Consistency > Motivation.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ Consistency > Motivation.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +57,7 @@ Consistency > Motivation.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
