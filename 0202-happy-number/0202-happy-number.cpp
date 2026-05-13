@@ -1,36 +1,43 @@
 class Solution {
 public:
 
-    bool isHappy(int n) {
+int squareSum(int n) {
 
-    unordered_set<int> seen;
-    while(n !=1) {
+    int sum = 0;
+    while (n>0) {
 
-     if(seen.count(n)) {
-        return false;
-     }
+        int digit = n%10;
+        sum += digit * digit;
+
+        n = n/10;
+    }
+
+    return sum;
+}
 
 
 
-    seen.insert(n);
+bool isHappy(int n) {
 
-    int  sum =0;
-    while(n>0) {
+    int slow = n;
+    int fast = n;
+
+
+    do {
+        slow =  squareSum(slow);
+        fast =  squareSum(squareSum(fast));
+}
+ while(slow != fast);
+ return slow == 1;
+
+        
      
-     int digit = n%10;
-     sum += digit * digit;
 
-     n =  n/10;
-}
-     n =  sum;
-}
-
-return true;
+    
 
     }
 
 };
+     
 
-
-
-
+    
