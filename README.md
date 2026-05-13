@@ -56,6 +56,7 @@ Consistency > Motivation.
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -72,6 +73,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -143,6 +145,7 @@ Consistency > Motivation.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
