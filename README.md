@@ -54,6 +54,7 @@ Consistency > Motivation.
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
@@ -141,6 +142,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
@@ -160,4 +162,5 @@ Consistency > Motivation.
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
