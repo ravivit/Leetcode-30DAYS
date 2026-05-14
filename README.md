@@ -33,6 +33,7 @@ Consistency > Motivation.
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -57,6 +58,7 @@ Consistency > Motivation.
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -81,6 +83,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
@@ -166,4 +169,8 @@ Consistency > Motivation.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
