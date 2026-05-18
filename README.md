@@ -36,6 +36,7 @@ Consistency > Motivation.
 | [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
+| [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
@@ -155,6 +156,7 @@ Consistency > Motivation.
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
+| [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
@@ -205,4 +207,8 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0095-unique-binary-search-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
