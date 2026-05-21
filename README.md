@@ -42,6 +42,7 @@ Consistency > Motivation.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -165,6 +166,7 @@ Consistency > Motivation.
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
@@ -191,6 +193,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
