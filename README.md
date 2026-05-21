@@ -87,6 +87,7 @@ Consistency > Motivation.
 | ------- |
 | [0007-reverse-integer](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -113,6 +114,7 @@ Consistency > Motivation.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -164,6 +166,7 @@ Consistency > Motivation.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
