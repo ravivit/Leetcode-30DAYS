@@ -30,6 +30,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ Consistency > Motivation.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
