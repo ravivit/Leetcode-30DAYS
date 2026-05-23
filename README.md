@@ -39,6 +39,7 @@ Consistency > Motivation.
 | [0457-circular-array-loop](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -177,6 +178,7 @@ Consistency > Motivation.
 | [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -243,6 +245,7 @@ Consistency > Motivation.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
