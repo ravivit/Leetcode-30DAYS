@@ -41,6 +41,7 @@ Consistency > Motivation.
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@ Consistency > Motivation.
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1340-jump-game-v) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -152,6 +154,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0095-unique-binary-search-trees-ii) |
+| [1340-jump-game-v](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
