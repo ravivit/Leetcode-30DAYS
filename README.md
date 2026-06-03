@@ -57,6 +57,7 @@ Consistency > Motivation.
 | [3546-equal-sum-grid-partition-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
@@ -76,6 +77,7 @@ Consistency > Motivation.
 | [0876-middle-of-the-linked-list](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ Consistency > Motivation.
 | [1340-jump-game-v](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1340-jump-game-v) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -108,6 +111,7 @@ Consistency > Motivation.
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -115,6 +119,7 @@ Consistency > Motivation.
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
