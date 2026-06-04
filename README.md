@@ -104,6 +104,7 @@ Consistency > Motivation.
 | [1622-fancy-sequence](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Consistency > Motivation.
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Consistency > Motivation.
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
