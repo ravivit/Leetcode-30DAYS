@@ -46,6 +46,7 @@ Consistency > Motivation.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -203,6 +204,7 @@ Consistency > Motivation.
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -252,6 +254,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0095-unique-binary-search-trees-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0095-unique-binary-search-trees-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
