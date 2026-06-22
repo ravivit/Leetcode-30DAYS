@@ -12,8 +12,7 @@ public:
             sum += nums[right];
 
             while (sum >= target) {
-
-                ans = min(ans, right - left + 1);
+                 ans = min(ans, right - left + 1);
 
                 sum -= nums[left];
                 left++;
