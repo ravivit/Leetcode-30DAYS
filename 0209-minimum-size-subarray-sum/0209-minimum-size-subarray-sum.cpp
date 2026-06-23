@@ -2,6 +2,10 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
 
+
+
+        // Solution of this particular question has done 
+
         int left = 0;
         int sum = 0;
 
