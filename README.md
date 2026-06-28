@@ -54,6 +54,7 @@ Consistency > Motivation.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -146,6 +147,7 @@ Consistency > Motivation.
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -178,6 +180,7 @@ Consistency > Motivation.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -284,5 +287,14 @@ Consistency > Motivation.
 ## Trie
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
