@@ -39,6 +39,7 @@ Consistency > Motivation.
 | [0457-circular-array-loop](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1340-jump-game-v) |
@@ -120,6 +121,7 @@ Consistency > Motivation.
 | [0209-minimum-size-subarray-sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
