@@ -50,6 +50,7 @@ Consistency > Motivation.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -215,6 +216,7 @@ Consistency > Motivation.
 | [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -286,6 +288,7 @@ Consistency > Motivation.
 | [0713-subarray-product-less-than-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0904-fruit-into-baskets) |
 | [1871-jump-game-vii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1871-jump-game-vii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |
