@@ -302,4 +302,8 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
