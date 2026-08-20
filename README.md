@@ -30,6 +30,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
@@ -92,6 +94,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0977-squares-of-a-sorted-array) |
