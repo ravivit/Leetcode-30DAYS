@@ -23,5 +23,6 @@ public:
         } while (slow != fast);
 
         return slow == 1;
+        
     }
 };
