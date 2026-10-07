@@ -153,6 +153,7 @@ Consistency > Motivation.
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0301-remove-invalid-parentheses) |
 | [1871-jump-game-vii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravivit/Leetcode-30DAYS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -275,6 +276,7 @@ Consistency > Motivation.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Consistency > Motivation.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ravivit/Leetcode-30DAYS/tree/master/0301-remove-invalid-parentheses) |
 | [1345-jump-game-iv](https://github.com/ravivit/Leetcode-30DAYS/tree/master/1345-jump-game-iv) |
 ## Sliding Window
 |  |
